@@ -1,5 +1,5 @@
 # Portfolio Under construction 🚧
-Portfolio for Maimul. 🏗 Under construction 🔨
+Welcome to my portfolio. 🏗 Under construction 🔨
 ___________________________________________________
 ## [LinkedIn](https://www.linkedin.com/in/maimul)
 ___________________________________________________
