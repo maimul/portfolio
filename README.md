@@ -1,8 +1,8 @@
 # Portfolio Under construction 🚧
 Welcome to my portfolio. 🏗 Under construction 🔨
-___________________________________________________
+
 ## [LinkedIn](https://www.linkedin.com/in/maimul)
-___________________________________________________
+---
 # Header
 - Logo
 - Title = 'Maimul's Portfolio'
