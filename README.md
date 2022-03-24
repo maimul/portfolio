@@ -9,7 +9,7 @@ Welcome to my portfolio. 🏗 Under construction 🔨
 - Tabs. About Me, Projects, Education, Peronsal life, experience.
 
 # Body
-[](https://media-exp1.licdn.com/dms/image/C5616AQFzuUHTKQkGjg/profile-displaybackgroundimage-shrink_350_1400/0/1647490687079?e=1653523200&v=beta&t=EZYh255EP8u95TnuoV0s_SD7BWBZZrp2j391yqf27lI)
+[](https://github.com/maimul/portfolio/blob/main/images/1000x-1.jpeg)
 ## Projects done by Maimul
 - [Project 1]
 - [Project 2]
