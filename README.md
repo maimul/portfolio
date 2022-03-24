@@ -1,5 +1,5 @@
-# Portfolio
-Portfolio for Maimul. Under construction
+# Portfolio Under construction 🚧
+Portfolio for Maimul. 🏗 Under construction 🔨
 ___________________________________________________
 ## [LinkedIn](https://www.linkedin.com/in/maimul)
 ___________________________________________________
@@ -9,7 +9,7 @@ ___________________________________________________
 - Tabs. About Me, Projects, Education, Peronsal life, experience.
 
 # Body
-## Project done by Maimul
+## Projects done by Maimul
 - [Project 1]
 - [Project 2]
 - [Project 3]
